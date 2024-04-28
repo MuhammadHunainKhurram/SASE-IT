@@ -32,7 +32,7 @@ This application allows users to manage their tasks effectively. Users can creat
 2. Navigate to the project directory:
 
    ```bash
-   cd EZ2WEEKS
+   cd SASE-IT
    ```
 
 3. Install dependencies:
@@ -44,7 +44,7 @@ This application allows users to manage their tasks effectively. Users can creat
 4. Run the application:
 
    ```bash
-   python flask_server.py
+   python /backend/flask_server.py
    ```
 
 5. Access the application in your web browser at `http://localhost:5500`.
